@@ -12,12 +12,19 @@ This repository contains 23 short C++ programs. These programs cover various fun
 ## How to Run the Programs
 
   1. Clone this repository to your local machine:
-   git clone <repository-url>
-  2. Navigate to the directory containing the programs: 
-   cd <directory-name>
-  3. Compile a program using a C++ compiler. For example, to compile task 1:
+     
+   git clone https://github.com/l1f24bscs0309/lab-week-03
+   
+  3. Navigate to the directory containing the programs: 
+   
+   cd directory-name
+   
+  4. Compile a program using a C++ compiler. For example, to compile task 1:
+   
    g++ task1.cpp -o task1
-  4. Run the compiled program:
+   
+  5. Run the compiled program:
+   
    ./task1
 
 
